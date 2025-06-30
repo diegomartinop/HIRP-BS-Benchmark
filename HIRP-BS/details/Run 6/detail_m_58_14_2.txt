@@ -1,0 +1,579 @@
+Instance m_58_14_2.dat
+
+Number of customers: 58
+Number of periods: 14
+Solution cost: 85840.8
+
+
+>> PERIOD 1
+
+> ROUTE 1:
+  Customers: 8
+  Vehicle: 3
+  Sequence: 0 27(72) 3(36) 12(15) 22(60) 2(13) 40(15) 50(48) 25(5) 0
+
+> ROUTE 2:
+  Customers: 7
+  Vehicle: 3
+  Sequence: 0 6(48) 26(16) 33(57) 4(28) 11(40) 16(20) 46(24) 0
+
+> ROUTE 3:
+  Customers: 7
+  Vehicle: 3
+
+>> PERIOD 2
+
+> ROUTE 1:
+  Customers: 42
+  Vehicle: 1
+  Sequence: 0 5(143) 31(56) 16(80) 11(48) 4(112) 37(45) 29(90) 7(98) 51(70) 6(80) 26(32) 36(88) 19(114) 10(8) 53(56) 33(76) 47(65) 32(16) 28(17) 24(45) 15(8) 18(28) 49(52) 35(36) 8(32) 34(14) 21(56) 56(33) 45(42) 3(12) 12(20) 43(64) 2(52) 40(135) 17(45) 54(117) 30(13) 50(60) 39(36) 46(104) 25(95) 20(75) 0
+
+
+>> PERIOD 3
+
+> ROUTE 1:
+  Customers: 21
+  Vehicle: 1
+  Sequence: 0 30(91) 22(30) 12(90) 43(32) 45(84) 3(84) 14(24) 56(55) 38(64) 52(18) 27(36) 34(56) 21(70) 35(66) 9(85) 49(91) 18(36) 15(80) 57(27) 16(90) 11(32) 0
+
+> ROUTE 2:
+  Customers: 22
+  Vehicle: 1
+  Sequence: 0 41(85) 29(30) 26(96) 23(40) 13(78) 10(64) 55(35) 53(28) 33(57) 47(13) 32(72) 28(85) 44(95) 24(9) 1(48) 48(54) 25(10) 58(63) 8(48) 50(72) 20(70) 42(40) 0
+
+> ROUTE 3:
+  Customers: 24
+  Vehicle: 1
+
+>> PERIOD 4
+
+> ROUTE 1:
+  Customers: 19
+  Vehicle: 1
+  Sequence: 0 20(40) 46(72) 8(112) 58(54) 34(84) 52(30) 45(28) 3(168) 14(72) 56(55) 38(32) 21(42) 35(108) 49(39) 18(80) 16(90) 11(40) 4(14) 29(30) 0
+
+> ROUTE 2:
+  Customers: 16
+  Vehicle: 1
+  Sequence: 0 7(70) 6(80) 23(60) 13(91) 26(16) 19(78) 10(88) 55(63) 53(28) 33(57) 47(91) 32(40) 36(44) 51(70) 37(78) 42(88) 0
+
+> ROUTE 3:
+  Customers: 19
+  Vehicle: 1
+  Sequence: 0 39(20) 50(48) 17(18) 12(75) 43(96) 22(75) 2(65) 40(15) 54(65) 30(65) 25(95) 5(91) 31(56) 57(87) 48(54) 1(96) 28(51) 44(95) 24(18) 0
+
+
+>> PERIOD 5
+
+> ROUTE 1:
+  Customers: 7
+  Vehicle: 2
+  Sequence: 0 25(40) 34(91) 27(36) 56(77) 45(28) 2(26) 39(22) 0
+
+> ROUTE 2:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 37(87) 29(90) 51(80) 41(85) 0
+
+> ROUTE 3:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 4(14) 48(48) 5(91) 50(60) 54(78) 20(65) 0
+
+> ROUTE 4:
+  Customers: 6
+  Vehicle: 3
+  Sequence: 0 31(70) 57(30) 15(48) 1(72) 24(81) 11(48) 0
+
+> ROUTE 5:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 44(25) 32(88) 47(91) 19(54) 36(77) 6(80) 0
+
+> ROUTE 6:
+  Customers: 8
+  Vehicle: 4
+  Sequence: 0 33(76) 53(56) 55(63) 10(8) 13(65) 23(12) 26(16) 7(70) 0
+
+> ROUTE 7:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 18(72) 49(65) 9(34) 58(63) 40(60) 46(64) 0
+
+> ROUTE 8:
+  Customers: 7
+  Vehicle: 3
+  Sequence: 0 17(27) 22(60) 43(48) 12(75) 14(84) 38(16) 52(48) 0
+
+> ROUTE 9:
+  Customers: 6
+  Vehicle: 4
+
+>> PERIOD 6
+
+> ROUTE 1:
+  Customers: 10
+  Vehicle: 1
+  Sequence: 0 42(118) 20(25) 25(70) 18(28) 15(88) 1(84) 48(66) 57(123) 31(35) 5(39) 0
+
+> ROUTE 2:
+  Customers: 24
+  Vehicle: 1
+  Sequence: 0 41(30) 39(154) 50(60) 54(26) 17(45) 40(45) 2(13) 22(30) 12(55) 43(64) 52(78) 3(84) 14(84) 56(55) 38(48) 21(98) 34(70) 35(30) 9(85) 49(52) 58(48) 8(80) 30(13) 46(64) 0
+
+> ROUTE 3:
+  Customers: 22
+  Vehicle: 1
+  Sequence: 0 11(24) 16(80) 24(81) 44(60) 28(51) 32(32) 47(52) 33(38) 53(98) 55(49) 10(16) 13(13) 23(68) 26(32) 19(72) 36(99) 6(96) 7(42) 51(30) 29(90) 37(69) 4(42) 0
+
+
+>> PERIOD 7
+
+> ROUTE 1:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 5(91) 31(49) 16(90) 11(56) 0
+
+> ROUTE 2:
+  Customers: 7
+  Vehicle: 3
+  Sequence: 0 34(21) 21(56) 38(80) 56(66) 45(98) 43(64) 50(24) 0
+
+> ROUTE 3:
+  Customers: 8
+  Vehicle: 3
+  Sequence: 0 4(42) 32(72) 53(70) 55(49) 10(16) 19(78) 36(33) 37(18) 0
+
+> ROUTE 4:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 20(25) 49(78) 9(85) 35(96) 54(65) 41(75) 0
+
+> ROUTE 5:
+  Customers: 7
+  Vehicle: 4
+  Sequence: 0 26(16) 23(48) 13(65) 33(76) 47(91) 28(51) 44(45) 0
+
+> ROUTE 6:
+  Customers: 9
+  Vehicle: 4
+  Sequence: 0 1(48) 15(16) 18(12) 8(32) 58(78) 22(60) 2(78) 17(45) 46(16) 0
+
+> ROUTE 7:
+  Customers: 7
+  Vehicle: 4
+  Sequence: 0 40(30) 12(40) 3(84) 14(84) 52(66) 27(72) 30(13) 0
+
+> ROUTE 8:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 48(96) 24(72) 29(60) 51(40) 6(80) 7(42) 0
+
+> ROUTE 9:
+  Customers: 6
+  Vehicle: 4
+
+>> PERIOD 8
+
+> ROUTE 1:
+  Customers: 5
+  Vehicle: 5
+  Sequence: 0 31(56) 57(27) 48(78) 1(60) 28(85) 0
+
+> ROUTE 2:
+  Customers: 1
+  Vehicle: 5
+  Sequence: 0 5(91) 0
+
+> ROUTE 3:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 30(104) 54(78) 17(54) 50(12) 0
+
+> ROUTE 4:
+  Customers: 8
+  Vehicle: 4
+  Sequence: 0 49(39) 9(51) 35(12) 52(18) 27(54) 22(90) 8(48) 46(16) 0
+
+> ROUTE 5:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 18(84) 25(40) 20(75) 42(44) 0
+
+> ROUTE 6:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 36(44) 19(12) 10(88) 55(35) 53(98) 33(19) 0
+
+> ROUTE 7:
+  Customers: 5
+  Vehicle: 2
+  Sequence: 0 21(98) 14(60) 3(96) 12(20) 43(64) 0
+
+> ROUTE 8:
+  Customers: 5
+  Vehicle: 4
+  Sequence: 0 37(36) 26(32) 13(78) 23(52) 6(112) 0
+
+> ROUTE 9:
+  Customers: 5
+  Vehicle: 4
+  Sequence: 0 24(81) 47(78) 32(48) 44(50) 41(70) 0
+
+> ROUTE 10:
+  Customers: 8
+  Vehicle: 3
+  Sequence: 0 39(34) 40(15) 2(52) 45(84) 56(33) 38(16) 34(42) 58(54) 0
+
+> ROUTE 11:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 7(70) 51(80) 29(15) 4(84) 11(72) 15(64) 0
+
+
+>> PERIOD 9
+
+> ROUTE 1:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 42(22) 9(34) 35(96) 34(77) 27(108) 46(32) 0
+
+> ROUTE 2:
+  Customers: 7
+  Vehicle: 1
+  Sequence: 0 58(27) 52(42) 56(11) 14(96) 3(48) 45(98) 17(63) 0
+
+> ROUTE 3:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 11(40) 48(66) 55(42) 33(57) 44(95) 37(54) 0
+
+> ROUTE 4:
+  Customers: 5
+  Vehicle: 3
+  Sequence: 0 7(84) 29(30) 4(42) 57(96) 31(42) 0
+
+> ROUTE 5:
+  Customers: 1
+  Vehicle: 3
+  Sequence: 0 41(45) 0
+
+> ROUTE 6:
+  Customers: 7
+  Vehicle: 2
+  Sequence: 0 24(27) 28(51) 32(96) 47(13) 53(70) 1(24) 15(32) 0
+
+> ROUTE 7:
+  Customers: 2
+  Vehicle: 1
+  Sequence: 0 39(60) 20(110) 0
+
+> ROUTE 8:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 43(96) 12(100) 22(90) 54(13) 0
+
+> ROUTE 9:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 10(48) 13(26) 23(92) 26(80) 0
+
+> ROUTE 10:
+  Customers: 6
+  Vehicle: 5
+  Sequence: 0 25(25) 18(28) 5(52) 19(36) 36(33) 51(80) 0
+
+> ROUTE 11:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 8(112) 38(32) 49(91) 16(20) 0
+
+> ROUTE 12:
+  Customers: 4
+  Vehicle: 4
+  Sequence: 0 6(48) 50(24) 40(75) 2(91) 0
+
+
+>> PERIOD 10
+
+> ROUTE 1:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 54(117) 40(105) 17(81) 39(76) 0
+
+> ROUTE 2:
+  Customers: 9
+  Vehicle: 2
+  Sequence: 0 30(52) 8(80) 52(12) 38(48) 56(99) 14(36) 3(60) 12(30) 43(16) 0
+
+> ROUTE 3:
+  Customers: 5
+  Vehicle: 2
+  Sequence: 0 41(90) 49(91) 9(102) 35(42) 58(87) 0
+
+> ROUTE 4:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 16(90) 24(90) 5(78) 42(66) 0
+
+> ROUTE 5:
+  Customers: 8
+  Vehicle: 4
+  Sequence: 0 11(8) 32(32) 47(78) 53(70) 55(42) 33(57) 19(36) 36(22) 0
+
+> ROUTE 6:
+  Customers: 5
+  Vehicle: 3
+  Sequence: 0 2(91) 22(75) 21(70) 34(91) 46(72) 0
+
+> ROUTE 7:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 48(30) 1(72) 15(64) 18(64) 25(90) 50(36) 0
+
+> ROUTE 8:
+  Customers: 6
+  Vehicle: 4
+  Sequence: 0 31(49) 57(42) 37(21) 29(30) 51(90) 7(98) 0
+
+> ROUTE 9:
+  Customers: 8
+  Vehicle: 4
+  Sequence: 0 4(28) 44(30) 28(34) 10(72) 13(78) 23(36) 26(16) 6(48) 0
+
+> ROUTE 10:
+  Customers: 5
+  Vehicle: 4
+
+>> PERIOD 11
+
+> ROUTE 1:
+  Customers: 13
+  Vehicle: 2
+  Sequence: 0 18(28) 49(91) 9(102) 35(54) 21(112) 38(32) 56(77) 14(24) 3(72) 12(35) 17(63) 50(84) 39(36) 0
+
+> ROUTE 2:
+  Customers: 18
+  Vehicle: 2
+  Sequence: 0 16(50) 48(24) 15(56) 1(60) 44(25) 28(102) 32(72) 47(13) 33(19) 53(56) 55(70) 10(56) 13(39) 23(24) 26(32) 19(18) 36(33) 29(75) 0
+
+> ROUTE 3:
+  Customers: 10
+  Vehicle: 2
+  Sequence: 0 7(14) 6(64) 51(40) 37(93) 4(70) 11(48) 24(90) 57(18) 31(98) 5(104) 0
+
+> ROUTE 4:
+  Customers: 15
+  Vehicle: 1
+  Sequence: 0 42(86) 20(65) 46(24) 30(39) 8(32) 58(87) 34(42) 27(18) 52(54) 45(84) 43(48) 22(45) 2(65) 40(90) 41(65) 0
+
+> ROUTE 5:
+  Customers: 10
+  Vehicle: 1
+
+>> PERIOD 12
+
+> ROUTE 1:
+  Customers: 3
+  Vehicle: 3
+  Sequence: 0 6(80) 26(48) 29(90) 0
+
+> ROUTE 2:
+  Customers: 1
+  Vehicle: 5
+  Sequence: 0 5(91) 0
+
+> ROUTE 3:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 48(30) 1(36) 23(96) 7(28) 0
+
+> ROUTE 4:
+  Customers: 2
+  Vehicle: 5
+  Sequence: 0 22(75) 2(91) 0
+
+> ROUTE 5:
+  Customers: 3
+  Vehicle: 5
+  Sequence: 0 54(26) 40(90) 17(90) 0
+
+> ROUTE 6:
+  Customers: 4
+  Vehicle: 4
+  Sequence: 0 41(85) 56(55) 27(90) 8(16) 0
+
+> ROUTE 7:
+  Customers: 7
+  Vehicle: 2
+  Sequence: 0 42(16) 49(26) 9(51) 35(30) 34(56) 58(24) 46(40) 0
+
+> ROUTE 8:
+  Customers: 7
+  Vehicle: 2
+  Sequence: 0 57(33) 15(32) 53(14) 55(28) 33(38) 47(65) 36(33) 0
+
+> ROUTE 9:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 12(25) 3(72) 38(64) 45(84) 0
+
+> ROUTE 10:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 20(100) 25(20) 11(56) 4(84) 0
+
+> ROUTE 11:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 51(10) 13(104) 10(56) 19(12) 44(95) 0
+
+> ROUTE 12:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 52(66) 14(60) 43(80) 50(12) 39(50) 0
+
+> ROUTE 13:
+  Customers: 6
+  Vehicle: 1
+  Sequence: 0 18(64) 31(14) 16(30) 24(18) 32(96) 37(45) 0
+
+> ROUTE 14:
+  Customers: 1
+  Vehicle: 5
+> ROUTE 15:
+  Customers: 7
+  Vehicle: 1
+
+>> PERIOD 13
+
+> ROUTE 1:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 37(99) 29(60) 36(99) 44(45) 0
+
+> ROUTE 2:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 5(26) 57(69) 16(80) 41(105) 0
+
+> ROUTE 3:
+  Customers: 5
+  Vehicle: 2
+  Sequence: 0 45(126) 3(24) 52(42) 21(42) 34(42) 0
+
+> ROUTE 4:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 43(80) 12(50) 14(36) 56(99) 27(36) 0
+
+> ROUTE 5:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 7(56) 26(48) 55(98) 4(84) 0
+
+> ROUTE 6:
+  Customers: 4
+  Vehicle: 3
+  Sequence: 0 31(56) 15(80) 48(66) 24(54) 0
+
+> ROUTE 7:
+  Customers: 6
+  Vehicle: 3
+  Sequence: 0 8(48) 58(93) 18(56) 25(20) 20(25) 42(14) 0
+
+> ROUTE 8:
+  Customers: 5
+  Vehicle: 2
+  Sequence: 0 54(65) 17(18) 40(30) 2(91) 22(90) 0
+
+> ROUTE 9:
+  Customers: 4
+  Vehicle: 4
+  Sequence: 0 13(91) 23(80) 6(48) 51(20) 0
+
+> ROUTE 10:
+  Customers: 4
+  Vehicle: 4
+  Sequence: 0 11(40) 28(51) 10(88) 19(66) 0
+
+> ROUTE 11:
+  Customers: 5
+  Vehicle: 4
+  Sequence: 0 1(12) 53(70) 33(57) 47(13) 32(56) 0
+
+> ROUTE 12:
+  Customers: 3
+  Vehicle: 3
+  Sequence: 0 49(91) 9(102) 35(66) 0
+
+> ROUTE 13:
+  Customers: 4
+  Vehicle: 3
+  Sequence: 0 46(88) 30(78) 50(48) 39(48) 0
+
+> ROUTE 14:
+  Customers: 4
+  Vehicle: 3
+> ROUTE 15:
+  Customers: 1
+  Vehicle: 3
+
+>> PERIOD 14
+
+> ROUTE 1:
+  Customers: 6
+  Vehicle: 5
+  Sequence: 0 44(35) 10(16) 13(52) 23(60) 36(55) 29(30) 0
+
+> ROUTE 2:
+  Customers: 2
+  Vehicle: 3
+  Sequence: 0 42(54) 20(55) 0
+
+> ROUTE 3:
+  Customers: 4
+  Vehicle: 5
+  Sequence: 0 11(16) 28(17) 47(52) 4(84) 0
+
+> ROUTE 4:
+  Customers: 4
+  Vehicle: 3
+  Sequence: 0 53(84) 55(70) 33(95) 32(72) 0
+
+> ROUTE 5:
+  Customers: 5
+  Vehicle: 3
+  Sequence: 0 8(80) 40(90) 17(81) 50(48) 39(12) 0
+
+> ROUTE 6:
+  Customers: 6
+  Vehicle: 3
+  Sequence: 0 54(13) 2(52) 22(30) 43(64) 3(96) 52(60) 0
+
+> ROUTE 7:
+  Customers: 9
+  Vehicle: 2
+  Sequence: 0 12(75) 14(24) 56(33) 38(32) 21(98) 34(7) 58(33) 30(26) 46(64) 0
+
+> ROUTE 8:
+  Customers: 5
+  Vehicle: 4
+  Sequence: 0 25(65) 57(90) 15(88) 48(30) 16(50) 0
+
+> ROUTE 9:
+  Customers: 5
+  Vehicle: 4
+  Sequence: 0 35(36) 9(34) 49(91) 18(72) 31(56) 0
+
+> ROUTE 10:
+  Customers: 1
+  Vehicle: 4
+  Sequence: 0 5(52) 0
+
+> ROUTE 11:
+  Customers: 8
+  Vehicle: 1
+  Sequence: 0 1(12) 24(18) 37(72) 51(40) 19(42) 26(96) 6(96) 7(28) 0
+
+
