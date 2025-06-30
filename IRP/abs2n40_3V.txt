@@ -1,0 +1,34 @@
+Instance abs2n40.dat
+
+Number of customers: 40
+Number of periods: 3
+Solution cost: 12339.7
+
+
+>> PERIOD 1
+
+
+>> PERIOD 2
+
+> ROUTE 1:
+  Vehicle: 1
+
+  Sequence:  0 10(47) 30(40) 14(138) 16(101) 37(26) 20(24) 13(146) 12(30) 15(19) 7(148) 4(95) 21(74) 32(24) 0
+> ROUTE 2:
+  Vehicle: 1
+
+  Sequence:  0 24(10) 28(20) 22(126) 40(12) 9(62) 34(160) 36(160) 19(134) 2(116) 0
+> ROUTE 3:
+  Vehicle: 1
+
+  Sequence:  0 35(54) 11(37) 17(28) 23(26) 39(27) 3(170) 1(77) 38(152) 29(82) 31(64) 18(52) 8(85) 25(58) 0
+
+
+>> PERIOD 3
+
+> ROUTE 1:
+  Vehicle: 1
+
+  Sequence:  0 27(60) 6(66) 33(68) 1(77) 4(95) 26(48) 5(84) 0
+
+
