@@ -1,0 +1,153 @@
+Instance s_19_7_1.dat
+
+Number of customers: 19
+Number of periods: 7
+Solution cost: 12042.4
+
+
+>> PERIOD 1
+
+> ROUTE 1:
+  Customers: 6
+  Vehicle: 2
+  Sequence: 0 10(44) 5(32) 6(44) 14(28) 15(20) 7(52) 0
+
+
+>> PERIOD 2
+
+> ROUTE 1:
+  Customers: 8
+  Vehicle: 1
+  Sequence: 0 5(16) 4(54) 12(15) 11(28) 10(34) 18(38) 9(33) 2(28) 0
+
+> ROUTE 2:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 16(12) 15(20) 14(70) 13(66) 6(77) 0
+
+> ROUTE 3:
+  Customers: 1
+  Vehicle: 3
+  Sequence: 0 19(154) 0
+
+
+>> PERIOD 3
+
+> ROUTE 1:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 4(48) 12(15) 13(96) 15(84) 7(39) 0
+
+> ROUTE 2:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 6(88) 5(112) 3(51) 2(28) 0
+
+> ROUTE 3:
+  Customers: 6
+  Vehicle: 2
+  Sequence: 0 14(49) 16(90) 17(24) 9(45) 10(12) 11(56) 0
+
+
+>> PERIOD 4
+
+> ROUTE 1:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 5(32) 13(96) 12(45) 2(28) 1(65) 0
+
+> ROUTE 2:
+  Customers: 3
+  Vehicle: 1
+  Sequence: 0 8(112) 16(66) 7(91) 0
+
+> ROUTE 3:
+  Customers: 3
+  Vehicle: 1
+  Sequence: 0 9(96) 10(82) 4(90) 0
+
+> ROUTE 4:
+  Customers: 4
+  Vehicle: 2
+  Sequence: 0 11(112) 19(14) 18(52) 6(66) 0
+
+> ROUTE 5:
+  Customers: 3
+  Vehicle: 3
+  Sequence: 0 17(72) 15(84) 14(35) 0
+
+
+>> PERIOD 5
+
+> ROUTE 1:
+  Customers: 7
+  Vehicle: 1
+  Sequence: 0 1(13) 18(80) 17(24) 16(138) 15(28) 6(11) 7(65) 0
+
+> ROUTE 2:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 5(80) 13(78) 12(155) 4(30) 2(14) 0
+
+> ROUTE 3:
+  Customers: 5
+  Vehicle: 1
+  Sequence: 0 14(70) 3(119) 10(46) 19(112) 9(12) 0
+
+
+>> PERIOD 6
+
+> ROUTE 1:
+  Customers: 2
+  Vehicle: 1
+  Sequence: 0 1(104) 13(108) 0
+
+> ROUTE 2:
+  Customers: 3
+  Vehicle: 1
+  Sequence: 0 9(84) 19(35) 10(98) 0
+
+> ROUTE 3:
+  Customers: 5
+  Vehicle: 2
+  Sequence: 0 3(51) 6(66) 14(56) 15(8) 7(13) 0
+
+> ROUTE 4:
+  Customers: 2
+  Vehicle: 2
+  Sequence: 0 5(80) 4(114) 0
+
+> ROUTE 5:
+  Customers: 2
+  Vehicle: 2
+  Sequence: 0 17(108) 8(84) 0
+
+> ROUTE 6:
+  Customers: 3
+  Vehicle: 2
+  Sequence: 0 18(68) 11(112) 2(14) 0
+
+
+>> PERIOD 7
+
+> ROUTE 1:
+  Customers: 4
+  Vehicle: 1
+  Sequence: 0 4(12) 12(60) 14(28) 11(28) 0
+
+> ROUTE 2:
+  Customers: 2
+  Vehicle: 1
+  Sequence: 0 17(60) 18(66) 0
+
+> ROUTE 3:
+  Customers: 1
+  Vehicle: 4
+  Sequence: 0 2(84) 0
+
+> ROUTE 4:
+  Customers: 2
+  Vehicle: 4
+  Sequence: 0 5(48) 7(39) 0
+
+
